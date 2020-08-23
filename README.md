@@ -21,14 +21,12 @@ Building things is one of my many hobbies and this app is meant to bring togethe
 ![second](https://github.com/MurdockTHS/Builders-App/blob/master/builder2.PNG)
 ![third](https://github.com/MurdockTHS/Builders-App/blob/master/builder2.PNG)
 
-builder1,builder2, and builder 3 contain the wireframes.
-
 ## <div align="center">Database Diagram</div>
 
 
 ## <div align="center">Entity Relationship Diagram</div>
 
-buideredr is the erm
+![first](https://github.com/MurdockTHS/Builders-App/blob/master/builderedr.PNG)
 
 ## <div align="center">User Stories</div>
 
@@ -59,7 +57,7 @@ buideredr is the erm
 * Then a user can click on it to leave a comment.
 
 ## <div align="center">Use Case Diagram</div>
-FirstDraftUMP.PNG
+![first](https://github.com/MurdockTHS/Builders-App/blob/master/FirstDraftUMP.PNG)
 
 ## <div align="center">Requirements</div>
 * Must be simple 
