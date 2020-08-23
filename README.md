@@ -17,7 +17,9 @@
 Building things is one of my many hobbies and this app is meant to bring together others who love to build and share there resources.
 
 ## <div align="center">Wire-Frames</div>
-(https://github.com/MurdockTHS/Builders-App/blob/master/builder1.PNG)
+!(https://github.com/MurdockTHS/Builders-App/blob/master/builder1.PNG)
+https://github.com/MurdockTHS/Builders-App/blob/master/builder2.PNG
+https://github.com/MurdockTHS/Builders-App/blob/master/builder2.PNG
 
 builder1,builder2, and builder 3 contain the wireframes.
 
