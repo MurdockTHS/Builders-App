@@ -1,35 +1,35 @@
 ## [Table of Contents](#table-of-contents)
 
-2) [Concept](#concept)
-3) [Wire-Frames (DRAFT)](#wire-frames)
-4) [Database Diagram](#database-diagram)
-5) [Entity Relationship Diagram (ERD)](#entity-relationship-diagram)
-6) [User Stories](#user-stories)
-7) [Use Cases](#use-cases)
-8) [Use Case Diagram](#use-case-diagram)
-9) [Requirements](#requirements)
-10) [Requirements Table](#requirements-table)
-11) [Test Case Table](#test-case-table)
+1) [Concept](#concept)
+2) [Wire-Frames (DRAFT)](#wire-frames)
+3) [Database Diagram](#database-diagram)
+4) [Entity Relationship Diagram (ERD)](#entity-relationship-diagram)
+5) [User Stories](#user-stories)
+6) [Use Cases](#use-cases)
+7) [Use Case Diagram](#use-case-diagram)
+8) [Requirements](#requirements)
+9) [Requirements Table](#requirements-table)
+10) [Test Case Table](#test-case-table)
 
 
 ## <div align="center">Concept</div>
-(#table-of-contents)
+
 Building things is one of my many hobbies and this app is meant to bring together others who love to build and share there resources.
 
 ## <div align="center">Wire-Frames</div>
-(#table-of-contents)
+(https://github.com/MurdockTHS/Builders-App/blob/master/builder1.PNG)
 
 builder1,builder2, and builder 3 contain the wireframes.
 
 ## <div align="center">Database Diagram</div>
-(#table-of-contents)
+
 
 ## <div align="center">Entity Relationship Diagram</div>
-(#table-of-contents)
+
 buideredr is the erm
 
 ## <div align="center">User Stories</div>
-(#table-of-contents)
+
 
 * User Story:
 
