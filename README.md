@@ -1,6 +1,5 @@
 ## [Table of Contents](#table-of-contents)
 
-1) [Inspiration](#inspiration)
 2) [Concept](#concept)
 3) [Wire-Frames (DRAFT)](#wire-frames)
 4) [Database Diagram](#database-diagram)
@@ -12,20 +11,34 @@
 10) [Requirements Table](#requirements-table)
 11) [Test Case Table](#test-case-table)
 
-# WireFrame examples
+
+## <div align="center">Concept</div>
+(#table-of-contents)
+Building things is one of my many hobbies and this app is meant to bring together others who love to build and share there resources.
+
+## <div align="center">Wire-Frames</div>
+(#table-of-contents)
+
 builder1,builder2, and builder 3 contain the wireframes.
 
-# ERM
+## <div align="center">Database Diagram</div>
+(#table-of-contents)
+
+## <div align="center">Entity Relationship Diagram</div>
+(#table-of-contents)
 buideredr is the erm
 
-# user story
+## <div align="center">User Stories</div>
+(#table-of-contents)
+
 * User Story:
 
 * As a person who loves to build things,
 * I want to create a platform for other to share their building projects
 * So that they can spread their resources for their own builds.
 
-# Use Case scenarios
+## <div align="center">Use Case Diagram</div>
+
 * Use Case Scenarios
 * Given that a user has a profile with the app
 * When they attempt to login
@@ -43,10 +56,10 @@ buideredr is the erm
 * When looking at the photo the user can scroll down to see a comment section
 * Then a user can click on it to leave a comment.
 
-# Use Case Diagram
+## <div align="center">Use Case Diagram</div>
 FirstDraftUMP.PNG
 
-# Requirments
+## <div align="center">Requirements</div>
 * Must be simple 
 * Easy to use and Navigate
 * Users should be able to interact with each other
@@ -58,4 +71,6 @@ FirstDraftUMP.PNG
 * Coherent
 * Coordination with clients to prioritize requirements and remove and ambiguity
 
+## <div align="center">Requirements Table</div>
 
+## <div align="center">Test Case Table</div>
