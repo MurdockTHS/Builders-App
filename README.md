@@ -1,5 +1,16 @@
-# Builders-App
-This is a work in progress social media app that I am working on
+## [Table of Contents](#table-of-contents)
+
+1) [Inspiration](#inspiration)
+2) [Concept](#concept)
+3) [Wire-Frames (DRAFT)](#wire-frames)
+4) [Database Diagram](#database-diagram)
+5) [Entity Relationship Diagram (ERD)](#entity-relationship-diagram)
+6) [User Stories](#user-stories)
+7) [Use Cases](#use-cases)
+8) [Use Case Diagram](#use-case-diagram)
+9) [Requirements](#requirements)
+10) [Requirements Table](#requirements-table)
+11) [Test Case Table](#test-case-table)
 
 # WireFrame examples
 builder1,builder2, and builder 3 contain the wireframes.
