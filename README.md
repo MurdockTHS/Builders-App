@@ -82,7 +82,6 @@ Building things is one of my many hobbies and this app is meant to bring togethe
 | 2.0            	| User shall be able to look through a feed with post of there followings.                                                                  	| Demonstration 	| TC003   	|
 | 2.2.0          	| User shall be able to select the top posts.                                                             	| Demonstration 	| TC003   	|
 | 3.0            	| User shall be able to select the links to the parts that are on the post.                                                                         	| Inspection    	| TC004   	|
-| 3.1.0          	| User shall be able to select individual roasts from the available coffees and see a description as well as the size and price of each roast in each section. 	| Inspection    	| TC004   	|
 | 4.0            	| User shall be able to follow other users.                                                                                                       	| Demonstration 	| TC005   	|
 | 4.1.0          	| User shall be able to follow communities.                                                             	| Test          	| TC006   	|
 
