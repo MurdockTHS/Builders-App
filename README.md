@@ -79,14 +79,13 @@ Building things is one of my many hobbies and this app is meant to bring togethe
 | 1.1.0          	| System shall verify users input for Username and Password.                                                                                                   	| Test          	| TC001   	|
 | 1.1.1          	| System shall display error message if the Username and Password does not match the database.                                                                 	| Demonstration 	| TC002   	|
 | 1.1.2          	| System shall allow user to reset their password through their email if they have forgotten.                                                                  	| Demonstration 	| TC002   	|
-| 2.0            	| User shall be able to swipe through the featured roasted coffee beans on the featured page.                                                                  	| Demonstration 	| TC003   	|
-| 2.1.0          	| User shall be able to scroll through all featured coffee beans from the last year.                                                                           	| Demonstration 	| TC003   	|
-| 2.2.0          	| User shall be able to select the featured roast from the featured page and add it to their cart.                                                             	| Demonstration 	| TC003   	|
-| 3.0            	| User shall be able to select the links to each type of roasted coffee beans offered.                                                                         	| Inspection    	| TC004   	|
+| 2.0            	| User shall be able to look through a feed with post of there followings.                                                                  	| Demonstration 	| TC003   	|
+| 2.2.0          	| User shall be able to select the top posts.                                                             	| Demonstration 	| TC003   	|
+| 3.0            	| User shall be able to select the links to the parts that are on the post.                                                                         	| Inspection    	| TC004   	|
 | 3.1.0          	| User shall be able to select individual roasts from the available coffees and see a description as well as the size and price of each roast in each section. 	| Inspection    	| TC004   	|
-| 4.0            	| User shall be able to add coffee roasts to their cart.                                                                                                       	| Demonstration 	| TC005   	|
-| 4.1.0          	| User shall be able to select the cart while they are logged in and see their current selections.                                                             	| Test          	| TC006   	|
-| 4.2.0          	| User shall be able to see their previous orders while logged in and on the cart page.                                                                        	| Inspection    	| TC006   	|
+| 4.0            	| User shall be able to follow other users.                                                                                                       	| Demonstration 	| TC005   	|
+| 4.1.0          	| User shall be able to follow communities.                                                             	| Test          	| TC006   	|
+
 | 4.3.0          	| User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application.                       	| Inspection    	| TC006   	|
 
 
@@ -97,8 +96,8 @@ Building things is one of my many hobbies and this app is meant to bring togethe
 |---------	|--------------------	|----------------------------------------------------------------------------------------------------------------	|----------------	|------------	|
 | TC001   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| Inspection     	|            	|
 | TC002   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	| Inspection     	|            	|
-| TC003   	| 2.0, 2.1.0 2.2.0   	| User should be able to scroll through Featured Coffee Roasts and  add them to their cart.                      	| Inspection     	|            	|
-| TC004   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link to coffees should display the description.      	| Inspection     	|            	|
-| TC005   	| 4.0                	| User should be able to select roasts and add it to their cart.                                                 	| Inspection     	|            	|
+| TC003   	| 2.0, 2.1.0 2.2.0   	| User should be able to see a home feed.                      	| Inspection     	|            	|
+| TC004   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link parts included in post.      	| Inspection     	|            	|
+
 | TC006   	| 4.1.0, 4.2.0 4.3.0 	| Users car should be reflective of their selections including after they leave the website and return.          	| Inspection     	|            	|
 
