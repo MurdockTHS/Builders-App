@@ -96,5 +96,5 @@ Currently being updated
 | TC002   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	| Inspection     	|            	|
 | TC003   	| 2.0, 2.1.0 2.2.0   	| User should be able to see a home feed.                      	| Inspection     	|            	|
 | TC004   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link parts included in post.      	| Inspection     	|            	|
-| TC006   	| 4.1.0, 4.2.0 4.3.0 	| Users car should be reflective of their selections including after they leave the website and return.          	| Inspection     	|            	|
+| TC006   	| 4.1.0, 4.2.0 4.3.0 	| Users should be reflective of their selections including after they leave the website and return.          	| Inspection     	|            	|
 
