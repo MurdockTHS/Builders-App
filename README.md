@@ -22,7 +22,7 @@ Building things is one of my many hobbies and this app is meant to bring togethe
 ![third](https://github.com/MurdockTHS/Builders-App/blob/master/builder2.PNG)
 
 ## <div align="center">Database Diagram</div>
-
+Currently being updated
 
 ## <div align="center">Entity Relationship Diagram</div>
 
