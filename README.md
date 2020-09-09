@@ -76,16 +76,16 @@ Currently being updated
 
 | Requirement ID 	| Requirement Description                                                                                                                                      	| Test Method   	| Test ID 	|
 |----------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------	|---------	|
-| 1.0            	| System shall request users log in to enter the website                                                                                                       	| Inspection    	| TC001   	|
-| 1.1.0          	| System shall verify users input for Username and Password.                                                                                                   	| Test          	| TC001   	|
-| 1.1.1          	| System shall display error message if the Username and Password does not match the database.                                                                 	| Demonstration 	| TC002   	|
-| 1.1.2          	| System shall allow user to reset their password through their email if they have forgotten.                                                                  	| Demonstration 	| TC002   	|
-| 2.0            	| User shall be able to look through a feed with post of there followings.                                                                  	| Demonstration 	| TC003   	|
-| 2.2.0          	| User shall be able to select the top posts.                                                             	| Demonstration 	| TC003   	|
-| 3.0            	| User shall be able to select the links to the parts that are on the post.                                                                         	| Inspection    	| TC004   	|
-| 4.0            	| User shall be able to follow other users.                                                                                                       	| Demonstration 	| TC005   	|
-| 4.1.0          	| User shall be able to follow communities.                                                             	| Test          	| TC006   	|
-| 4.3.0          	| User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application.                       	| Inspection    	| TC006   	|
+| 1.0            	| System shall request users log in to enter the website | not tested    	| TC001   	|
+| 1.1.0          	| System shall verify users input for Username and Password. | not tested          	| TC001   	|
+| 1.1.1          	| System shall display error message if the Username and Password does not match the database. | not tested 	| TC002   	|
+| 1.1.2          	| System shall allow user to reset their password through their email if they have forgotten. | not tested 	| TC002   	|
+| 2.0            	| User shall be able to look through a feed with post of there followings.| not tested 	| TC003   	|
+| 2.2.0          	| User shall be able to select the top posts.                                         | not tested 	| TC003   	|
+| 3.0            	| User shall be able to select the links to the parts that are on the post. | not tested    	| TC004   	|
+| 4.0            	| User shall be able to follow other users.| not tested 	| TC005   	|
+| 4.1.0          	| User shall be able to follow communities. | not tested  	| TC006   	|
+| 4.3.0          	| User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application. | not tested | TC006 |
 
 
 ## <div align="center">Test Case Table</div>
@@ -93,11 +93,11 @@ Currently being updated
 
 | Test ID 	| Req. ID            	| Test Procedure                                                                                                 	| Current Status 	| Time Stamp 	|
 |---------	|--------------------	|----------------------------------------------------------------------------------------------------------------	|----------------	|------------	|
-| TC1   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| Inspection     	|            	|
-| TC2   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	| Inspection     	|            	|
-| TC3   	| 2.0, 2.1.0 2.2.0   	| User should be able to see a home feed.                      	| Inspection     	|            	|
-| TC4   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link parts included in post.      	| Inspection     	|            	|
-| TC6   	| 4.1.0, 4.2.0 4.3.0 	| Users should be reflective of their selections including after they leave the website and return.          	| Inspection     	|            	|
+| TC1   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| not tested     	|           |
+| TC2   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	| not tested     	|           |
+| TC3   	| 2.0, 2.1.0 2.2.0   	| User should be able to see a home feed.                      	| not tested     	|            	|
+| TC4   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link parts included in post.      	| not tested     	|            	|
+| TC6   	| 4.1.0, 4.2.0 4.3.0 	| Users should be reflective of their selections including after they leave the website and return.          	| not tested    	|            	|
 
 
 ## <div align="center">Prototype</div>
