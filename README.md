@@ -76,16 +76,16 @@ Currently being updated
 
 | Requirement ID 	| Requirement Description                                                                                                                                      	| Test Method   	| Test ID 	|
 |----------------	|--------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------	|---------	|
-| 1.0            	| System shall request users log in to enter the website | not tested    	| TC001   	|
-| 1.1.0          	| System shall verify users input for Username and Password. | not tested          	| TC001   	|
-| 1.1.1          	| System shall display error message if the Username and Password does not match the database. | not tested 	| TC002   	|
-| 1.1.2          	| System shall allow user to reset their password through their email if they have forgotten. | not tested 	| TC002   	|
-| 2.0            	| User shall be able to look through a feed with post of there followings.| not tested 	| TC003   	|
-| 2.2.0          	| User shall be able to select the top posts.                                         | not tested 	| TC003   	|
-| 3.0            	| User shall be able to select the links to the parts that are on the post. | not tested    	| TC004   	|
-| 4.0            	| User shall be able to follow other users.| not tested 	| TC005   	|
-| 4.1.0          	| User shall be able to follow communities. | not tested  	| TC006   	|
-| 4.3.0          	| User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application. | not tested | TC006 |
+| 1.0            	| System shall request users log in to enter the website | not tested    	| TC1   	|
+| 1.1.0          	| System shall verify users input for Username and Password. | not tested          	| TC1   	|
+| 1.1.1          	| System shall display error message if the Username and Password does not match the database. | not tested 	| TC2   	|
+| 1.1.2          	| System shall allow user to reset their password through their email if they have forgotten. | not tested 	| TC2   	|
+| 2.0            	| User shall be able to look through a feed with post of there followings.| not tested 	| TC3   	|
+| 2.2.0          	| User shall be able to select the top posts.                                         | not tested 	| TC3   	|
+| 3.0            	| User shall be able to select the links to the parts that are on the post. | not tested    	| TC4   	|
+| 4.0            	| User shall be able to follow other users.| not tested 	| TC5   	|
+| 4.1.0          	| User shall be able to follow communities. | not tested  	| TC6   	|
+| 4.3.0          	| User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application. | not tested | TC6 |
 
 
 ## <div align="center">Test Case Table</div>
