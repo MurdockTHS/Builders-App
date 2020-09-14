@@ -60,17 +60,22 @@ Currently being updated
 ## <div align="center">Use Case Diagram</div>
 ![first](https://github.com/MurdockTHS/Builders-App/blob/master/FirstDraftUMP.PNG)
 
-## <div align="center">Requirements</div>
-* Must be simple 
-* Easy to use and Navigate
-* Users should be able to interact with each other
-* Users must be able to upload their pictures
-* Security
-* Logging
-* Users should be able to mail any report to management.
-* Storage
-* Coherent
-* Coordination with clients to prioritize requirements and remove and ambiguity
+# <div align="center">Requirements</div>
+
+* 1.0\. System shall request users to log in to enter the website.
+   * 1.1.0\. System shall verify users input for Username and Password.
+    * 1.1.1\. System shall display error message if the Username and Password does not match the database. 
+    * 1.1.2\. System shall allow user to reset their password through their email if they have forgotten.
+
+* 2.0\. User shall be able to swipe through the featured roasted coffee beans on the featured page.
+   * 2.1.0\. User shall be able to scroll through all featured coffee beans from the last year.
+   * 2.1.0\. User shall be able to select the featured roast from the featured page and add it to their cart.
+
+* 3.0\. User shall be able to select the links to the parts that are on the post.
+
+* 4.0\. User shall be able to follow other users.
+   * 4.1.0\. User shall be able to follow communities.
+   * 4.2.0\. User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application.
 
 ## <div align="center">Requirements Table</div>
 
@@ -81,11 +86,11 @@ Currently being updated
 | 1.1.1          	| System shall display error message if the Username and Password does not match the database. | Demonstration	| TC2   	|
 | 1.1.2          	| System shall allow user to reset their password through their email if they have forgotten. | Demonstration 	| TC2   	|
 | 2.0            	| User shall be able to look through a feed with post of there followings.| not tested 	| Demonstration   	|
-| 2.2.0          	| User shall be able to select the top posts.                                         | Demonstration 	| TC3  |
+| 2.1          	| User shall be able to select the top posts.                                         | Demonstration 	| TC3  |
 | 3.0            	| User shall be able to select the links to the parts that are on the post. | Inspection 	| TC4   	|
 | 4.0            	| User shall be able to follow other users.| Demonstration 	| TC5   	|
 | 4.1.0          	| User shall be able to follow communities. | Test 	| TC6   	|
-| 4.3.0          	| User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application. | Inspection | TC6 |
+| 4.2.0          	| User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application. | Inspection | TC6 |
 
 
 ## <div align="center">Test Case Table</div>
@@ -95,9 +100,9 @@ Currently being updated
 |---------	|--------------------	|----------------------------------------------------------------------------------------------------------------	|----------------	|------------	|
 | TC1   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| not tested     	|           |
 | TC2   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	| not tested     	|           |
-| TC3   	| 2.0, 2.1.0 2.2.0   	| User should be able to see a home feed.                      	| not tested     	|            	|
-| TC4   	| 3.0, 3.1.0         	| The links should take the user to the proper link and the link parts included in post.      	| not tested     	|            	|
-| TC6   	| 4.1.0, 4.2.0 4.3.0 	| Users should be reflective of their selections including after they leave the website and return.          	| not tested    	|            	|
+| TC3   	| 2.0, 2.1 2.2   	| User should be able to see a home feed.                      	| not tested     	|            	|
+| TC4   	| 3.0,        	| The links should take the user to the proper link and the link parts included in post.      	| not tested     	|            	|
+| TC6   	| 4.1.0, 4.2.0 	| Users should be reflective of their selections including after they leave the website and return.          	| not tested    	|            	|
 
 
 ## <div align="center">Prototype</div>
