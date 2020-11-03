@@ -15,7 +15,7 @@
 
 ## <div align="center">Concept</div>
 
-Building things is one of my many hobbies and this app is meant to bring together others who love to build and share there resources.
+A social media app where users can post small jobs that can be accepted by other user to do to get quick cash.
 
 ## <div align="center">Wire-Frames</div>
 ![First](https://github.com/MurdockTHS/Builders-App/blob/master/builder1.PNG)
