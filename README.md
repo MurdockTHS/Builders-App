@@ -89,13 +89,7 @@ A social media app where users can post small jobs that can be accepted by other
 | 1.0            	| System shall request users log in to enter the website | inspection    	| TC1   	|
 | 1.1.0          	| System shall verify users input for Username and Password. | Test | TC1   	|
 | 1.1.1          	| System shall display error message if the Username and Password does not match the database. | Demonstration	| TC2   	|
-| 1.1.2          	| System shall allow user to reset their password through their email if they have forgotten. | Demonstration 	| TC2   	|
 | 2.0            	| User shall be able to look through a feed with post of there followings.| not tested 	| Demonstration   	|
-| 2.1          	| User shall be able to select the top posts.                                         | Demonstration 	| TC3  |
-| 3.0            	| User shall be able to select the links to the parts that are on the post. | Inspection 	| TC4   	|
-| 4.0            	| User shall be able to follow other users.| Demonstration 	| TC5   	|
-| 4.1.0          	| User shall be able to follow communities. | Test 	| TC6   	|
-| 4.2.0          	| User shall be able to leave the application and upon relogging in their cart will still be the same as when they left the application. | Inspection | TC6 |
 
 
 ## <div align="center">Test Case Table</div>
@@ -104,9 +98,9 @@ A social media app where users can post small jobs that can be accepted by other
 | Test ID 	| Req. ID            	| Test Procedure                                                                                                 	| Current Status 	| Time Stamp 	|
 |---------	|--------------------	|----------------------------------------------------------------------------------------------------------------	|----------------	|------------	|
 | TC1   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| tested     	|      passed     |
-| TC2   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	|  tested     	|    passed       |
-| TC3   	| 2.0, 2.1 2.2   	| User should be able to see a home feed.                      	| tested     	|       not passed     	|
-| TC4   	| 3.0,        	| The links should take the user to the proper link and the link parts included in post.      	| not tested     	|            	|
+| TC2   	| 1.1.1      	| Display error message if the username and password in incorrect, send an email to reset username and password. 	|  tested     	|    passed       |
+| TC3   	| 2.0  	| User should be able to see a home feed.                      	| tested     	|       not passed     	|
+
 
 
 
