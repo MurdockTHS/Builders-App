@@ -97,9 +97,9 @@ A social media app where users can post small jobs that can be accepted by other
 
 | Test ID 	| Req. ID            	| Test Procedure                                                                                                 	| Current Status 	| Time Stamp 	|
 |---------	|--------------------	|----------------------------------------------------------------------------------------------------------------	|----------------	|------------	|
-| TC1   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| tested     	|      passed     |
-| TC2   	| 1.1.1      	| Display error message if the username and password in incorrect, send an email to reset username and password. 	|  tested     	|    passed       |
-| TC3   	| 2.0  	| User should be able to see a home feed.                      	| tested     	|       not passed     	|
+| TC1   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| tested     	|  passed 10/30/20    |
+| TC2   	| 1.1.1      	| Display error message if the username and password in incorrect, send an email to reset username and password. 	|  tested     	|    passed 10/30/20      |
+| TC3   	| 2.0  	| User should be able to see a home feed.                      	| tested     	|       not passed  10/30/20   	|
 
 
 
