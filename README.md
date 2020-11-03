@@ -103,11 +103,11 @@ A social media app where users can post small jobs that can be accepted by other
 
 | Test ID 	| Req. ID            	| Test Procedure                                                                                                 	| Current Status 	| Time Stamp 	|
 |---------	|--------------------	|----------------------------------------------------------------------------------------------------------------	|----------------	|------------	|
-| TC1   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| not tested     	|           |
-| TC2   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	| not tested     	|           |
-| TC3   	| 2.0, 2.1 2.2   	| User should be able to see a home feed.                      	| not tested     	|            	|
+| TC1   	| 1.0, 1.1.0         	| System shall request and verify username and password for log in                                               	| tested     	|      passed     |
+| TC2   	| 1.1.1, 1.1.2       	| Display error message if the username and password in incorrect, send an email to reset username and password. 	|  tested     	|    passed       |
+| TC3   	| 2.0, 2.1 2.2   	| User should be able to see a home feed.                      	| tested     	|       not passed     	|
 | TC4   	| 3.0,        	| The links should take the user to the proper link and the link parts included in post.      	| not tested     	|            	|
-| TC6   	| 4.1.0, 4.2.0 	| Users should be reflective of their selections including after they leave the website and return.          	| not tested    	|            	|
+
 
 
 ## <div align="center">Prototype</div>
