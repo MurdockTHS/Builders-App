@@ -23,7 +23,12 @@ A social media app where users can post small jobs that can be accepted by other
 ![third](https://github.com/MurdockTHS/Builders-App/blob/master/builder2.PNG)
 
 ## <div align="center">Database Diagram</div>
-Currently being updated
+![First](https://github.com/MurdockTHS/OddJobs/blob/master/databasefriends.PNG)
+![second](https://github.com/MurdockTHS/OddJobs/blob/master/databasemessages.PNG)
+![third](https://github.com/MurdockTHS/OddJobs/blob/master/databaseoj.PNG)
+![fourth](https://github.com/MurdockTHS/OddJobs/blob/master/databaseonline.PNG)
+![fifth](https://github.com/MurdockTHS/OddJobs/blob/master/databaseusers.PNG)
+![six](https://github.com/MurdockTHS/OddJobs/blob/master/databasewall.PNG)
 
 ## <div align="center">Entity Relationship Diagram</div>
 
